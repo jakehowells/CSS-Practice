@@ -1,9 +1,17 @@
-div {
-    width: 100%;
-    max-width: 200px;
-    height: 100vw;
+section {
+    height: 80vh;
     border: 1px solid black;
-    font-size: 12px;
-    font-weight: bold;
-    font-family: 'Roboto', sans-serif;
 }
+
+p {
+    color: blue !important;
+}
+
+.red {
+    color: red;
+}
+
+#title {
+    color: black;
+}
+
